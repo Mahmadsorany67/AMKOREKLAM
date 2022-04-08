@@ -57,4 +57,4 @@ client.user.setGame(`Rose 💙`)
 
 
 
-client.login("");// Your Token
+client.login("OTYyMDkxMDU2MTQzNDE3MzU3.YlCfHg.is47mqpKoqdTtNmOkVS5hcrUqDw");// Your Token
